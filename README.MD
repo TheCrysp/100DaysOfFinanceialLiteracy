@@ -345,7 +345,7 @@ There are many other features and clauses; so one should carefully check all of 
 
 
 
-## Day 3
+## Day 13
 
 **Topic** - Do I need a cover for Critical Illness?
      
@@ -439,7 +439,7 @@ Do you know your current Net Worth?
 
 3 Reasons You Need to Know Your Net Worth -
 
-1.Your Net Worth Shows Where You Are!
+1. Your Net Worth Shows Where You Are!
 
 - Are you saving enough for retirement?
 - Do you have money in your savings account to cover an emergency?
@@ -456,3 +456,175 @@ Do you know your current Net Worth?
    - Are you in track or off track and accordingly make changes.
 
 Have you created your Personal Net Worth? What does it tell you ?
+
+
+
+## Day 18
+
+**Topic** - Grow your #Networth 
+
+It’s not your salary/income that builds your Net worth BUT how you manage your money.
+
+Some useful tips for managing your money and building your personal net worth -
+
+1. Clear your debt - Net worth is Asset minus Debt, so lowering the debt increases the net worth considerably. First and foremost, clear your outstanding credit card bills. Secondly, start paying off the high interest rates loans in the order. Don't take personal loans unless emergency situations.
+2. Buy Assets that appreciate - Depreciable assets such as cars, jewelry for personal use, etc lose their value over time. But when you invest your money wisely into assets that gain value over time, such as houses, rental properties and other financial assets, you are investing your money smartly.
+3. Use Budgeting to manage your expenses - a slight reduction in expenses and increment in your monthly investment can build huge assets over a period of time.
+4. Create a Financial Plan - It helps you plan your finances in a systematic way and build your Net worth. If you don't know How? Consult an expert.
+
+Always keep a track on your Net Worth statement and review it at regular intervals.
+
+Is my Net Worth positive?
+Is my Net Worth growing?
+
+
+
+## Day 19
+
+**Topic** - Pay off loan first or Invest?
+
+After paying your necessary expenses each month, you may have money left over. the dilemma comes whether to use the extra money to clear outstanding debt or invest.
+
+The decision whether to pay off debt or invest depends on many factors -
+
+1. Your Current financial health? -How much loans you have in the books? Do you have assets to take care of your future financial needs?
+2.  Interest rate on the existing loans and how your EMIs impacts your monthly budget
+3.  Financial Goal: Say you are planning to start a business, than your loans can hold you back from achieving that milestone. By contrast, you may want to focus on investing if your goal is to retire early.
+4.  Age - If you are in your 20’s, you have more time to save for retirement. But if you’re in your 40’s or 50’s, you don’t have a lot of time to waste if you need to save for your retirement fund and other financial needs.
+
+Prioritization is the key here -
+
+1. Save for emergencies: Before you pay off loans or invest, save at least 3-6 months of your expenses.
+2. Protect yourself from uncertainties: Buy life and health insurance to protect your family from the burden of outstanding liabilities
+3.  Create a financial plan on how you are going to clear off your debt
+
+Do you have an existing debt ?
+What strategy you use to clear the outstanding debt?
+
+
+
+## Day 20
+
+**Topic** - Should I buy home or rent ?
+
+We all have this one dream of owning our own home one day. Isn't it? I think most of us do!. And the moment we start earning, the first big asset we want to buy is a house or an apartment. (Assuming we don't have one yet or want to buy a big one)
+
+Before making this decision, lets understand this with 2 angles -
+
+1. Emotional Angle
+   -> Since childhood we have grown up watching movies and listening to elders where we are told a person needs three most basic things in life - FOOD, CLOTHES and HOUSE.
+   -> Owning a house brings lots of mental peace to some people. Of Course it does when it is not under EMIs
+   -> Peer pressure - Friends or relatives owning a house creates a pressure that you should also have your own.
+   -> Bigger and Better House - some people own a house, but given new construction and amenities, people are looking for bigger house with added amenities like swimming pool, play area for kids, gym, sports area etc etc.
+
+2. Financial Angle
+   Evaluate the cost of both buying a house and renting -
+
+A. When Buying a House/Apartment -
+
+1. Down Payment - This is the amount required for initial payment (Assuming you cant buy the house in full cash). For example, say your dream house/apartment cost is 1crore, 20-30 lakhs is required for down payment (minimum).
+2.  Interest cost - When you take a bank loan, there is an interest to be paid every month for x years. Monthly EMIs will be around 50k to 75K (Assuming Cost of House 1crore, interest 10-12%, tenure 20-30 years)
+3. Maintenance Cost - There are some minimum recurring expenses to maintain the house which you can't avoid.
+
+B. When renting a house, the cost is below -
+
+1. Paying Rent
+2.  Pay Maintenance cost (in some cases)
+
+Now evaluate your current financial situation -
+
+1. Are you in a stable job/business?
+2. Do you have more assets to take care of your other financial needs?
+3.  Are you able to save post your EMIs for your other financial needs?
+4.  Do you feel stressed with the Home EMIs?
+5. What will happen if you are not there to pay the EMIs?
+6. If you have not done the Down payment, what else you could do with the money? (opportunity cost)
+
+Basis above analysis, you can take a conscious financial decision whether to buy or rent.
+
+A financial plan will help you take a logical call on such decisions.
+
+Is your current house on loan?
+How you feel about it?
+
+
+
+## Day 21
+
+Topic - How to Choose the Best Fixed Deposit?
+
+All of us at some point in time has got at least one FD done in our life.
+Fixed deposits are low-risk investment options through which people can get higher returns than keeping their money in a regular savings account.
+
+Before applying for an FD, consider following factors -
+
+1. Compare the Rate of Interest -  Based on the tenure, different interest rates are offered by Lenders .
+   - It also depends on the age of the depositor. Interest rates offered to senior citizens are higher than the regular rates offered to others.
+   - -It also depends on the amount of FD, bulk or lumpsum deposits attract a higher rate of interest.
+
+2. Review Lenders Credibility: Though it’s not a risky investment, there are still chances (though low) of the lender defaulting on its repayment. Generally the FDs provided by a bank is considered to be the safest among all.
+
+3. Cumulative Deposits or Non-Cumulative Deposits: Depending on whether you want a periodic interest payment or full proceeds on maturity, you can choose between cumulative and non-cumulative FDs. In case you opt for cumulative deposit, the interest is paid at the time the FD matures. In the case of a non-cumulative deposit, the interest is paid either annually, half-yearly, quarterly, or monthly. Depending on your need for money, you can choose any of these types. 
+
+4. Premature Withdrawal: The premature withdrawal facility will allow you to withdraw the money in the case of any emergencies.
+
+5. Penalty Rates: It is vital that you check the fee that will be levied in the case of premature withdrawal before you invest in the FD scheme.
+
+FDs should largely be viewed as a place to park your money with the objective of preserving the capital rather than a means to create long-term wealth. However, for emergency and short term goals, FDs and similar fixed income instruments are considered to be a good bet.
+
+Have you invested in FDs?
+How much of your total investment is in FD?
+
+
+
+## Day 22
+
+Topic - What is a Good Investment?
+
+Many people in my last post where I talked about how to select FDs shared their views with me that FD is not a way to create wealth and should not be considered as a "Good Investment"
+
+Please understand - "No investment is good or bad standalone, it entirely depends on an individual's personal and financial situation"
+For example, someone close to retirement with a healthy nest egg will likely to have a very different investment plan than someone just starting out in their career with no savings.
+
+The Investments depends on many factors -
+
+\1. Are you investing for Short term, Medium term or Long term Goals?
+\2. How much risk taking and risk bearing capacity you have?
+\3. What is your current financial status?
+\4. Whether you are single/married, with/without kids, number of dependents etc
+
+One should do proper risk profiling before making any investment. If you know where you are where you want to reach, then you can explore various paths which will take you there and then you can make a conscious choice.
+
+Have you done your risk profiling before making an investment?
+
+I will talk about Risk Profile in my next post. Stay Tuned!
+
+
+
+## Day 23
+
+Topic - What is equity Investment?
+
+Equity is a share that represents an ownership interest in a company. Every person who holds the company’s share as a shareholder becomes a partial owner of the company.
+
+1. Public share - A private company when makes an Initial Public Offering (IPO), it means it is allowing anyone to invest and own a part of the company's business. Post IPO, the shares get listed in a stock exchanges where anyone can buy/sell shares freely.
+2. Private Share - A company's share which is not listed on stock exchange. These shares are, therefore, bought privately.
+
+What are the potential benefits of equity investments?
+
+1. Capital Gains - When you buy a share of the company with an expectation that its price will increase and you will gain from the sale of the shares in future.
+   For example - You buy 1000 share at a price of Rs 120 and while selling, the price went to Rs 150, your Capital gain is Rs. 30000 (Rs 30 per share)
+
+2. Dividends - When company makes profits and distribute a portion to its shareholders, the shareholder gets benefited.
+   For example - a company issues a Dividend of 25% means
+   Face value of the share is Rs.100, Dividend paid will be Rs 25 per share
+   If you are holding 1000 shares of the company, you will get a dividend of Rs 25000.
+
+What are the Equity Investments Options Available?
+
+1. Equity Shares
+2.  Equity Mutual Funds.
+
+Will cover Equity Mutual Funds in separate post. Stay Tuned.
+
+Have you invested into Equity? (Other than your own business)
