@@ -18,7 +18,7 @@ When I started my career with Citibank, a very senior colleague suggested me to 
 
 The one point highlighted by these authors was - The way you think about money, you become the same.
 
-Your Money Mindset starts building from your early childhood; how your parents thought, felt and behaved in financial matters at home, the same was programmed in your mind too. Infact, Kids were never taught about Money neither at home nor in school/colleges; women of the families were never involved in the financial matters; a few specific communities behaves differently in money related matters.
+Your Money Mindset starts building from your early childhood; how your parents thought, felt and behaved in financial matters at home, the same was programmed in your mind too. In fact, Kids were never taught about Money neither at home nor in school/colleges; women of the families were never involved in the financial matters; a few specific communities behaves differently in money related matters.
 
 These are nothing but self limiting beliefs which stops people from exploring beyond their existing beliefs and mindsets.
 
@@ -329,7 +329,7 @@ Will talk about Critical Illness in detail in next post. Stay tuned!
 
 ## Day 12
 
-Topic - What to check in a [#healthinsurance](https://www.linkedin.com/feed/hashtag/?keywords=healthinsurance&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6867321289451876352) policy?
+**Topic** - What to check in a #healthinsurance policy?
 
 I am sharing below checklist you should see before subscribing to a health insurance policy -
 
